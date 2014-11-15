@@ -2,7 +2,7 @@
 
 
 ##Requirements:
-  * Latex engine. In Mac OS, I recommend [MacTex]{https://tug.org/mactex/}
+  * Latex engine. In Mac OS, I recommend [MacTex](https://tug.org/mactex/).
 
 ##How to use:
   
